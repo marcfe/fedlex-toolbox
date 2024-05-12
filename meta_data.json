@@ -1,0 +1,114 @@
+[
+    {
+        "law_name": "Schweizerisches Zivilgesetzbuch",
+        "language": "DE",
+        "SR": "210",
+        "shorthand": "ZGB",
+        "Kurztitel": "",
+        "effective_date": "vom 10. Dezember 1907 (Stand am 1. Januar 2024)"
+    },
+    {
+        "law_name": "Bundesgesetzbetreffend die Ergänzungdes Schweizerischen Zivilgesetzbuches(Fünfter Teil: Obligationenrecht)",
+        "language": "DE",
+        "SR": "220",
+        "shorthand": "OR",
+        "Kurztitel": "",
+        "effective_date": "vom 30. März 1911 (Stand am 1. Januar 2024)"
+    },
+    {
+        "law_name": "Fernmeldegesetz",
+        "language": "DE",
+        "SR": "784.10",
+        "shorthand": "FMG",
+        "Kurztitel": "FMG",
+        "effective_date": "vom 30. April 1997 (Stand am 1. September 2023)"
+    },
+    {
+        "law_name": "Bundesgesetzüber Kartelle und andereWettbewerbsbeschränkungen",
+        "language": "DE",
+        "SR": "251",
+        "shorthand": "KG",
+        "Kurztitel": "Kartellgesetz, KG",
+        "effective_date": ""
+    },
+    {
+        "law_name": "Bundesverfassungder Schweizerischen Eidgenossenschaft",
+        "language": "DE",
+        "SR": "101",
+        "shorthand": "BV",
+        "Kurztitel": "",
+        "effective_date": "vom 18. April 1999 (Stand am 3. März 2024)"
+    },
+    {
+        "law_name": "Schweizerisches Strafgesetzbuch",
+        "language": "DE",
+        "SR": "311.0",
+        "shorthand": "StGB",
+        "Kurztitel": "",
+        "effective_date": "vom 21. Dezember 1937 (Stand am 1. Januar 2024)"
+    },
+    {
+        "law_name": "Bundesgesetzüber den Datenschutz",
+        "language": "DE",
+        "SR": "235.1",
+        "shorthand": "DSG",
+        "Kurztitel": "Datenschutzgesetz, DSG",
+        "effective_date": "vom 25. September 2020 (Stand am 1. September 2023)"
+    },
+    {
+        "law_name": "Bundesgesetzüber das Verwaltungsverfahren",
+        "language": "DE",
+        "SR": "172.021",
+        "shorthand": "VwVG",
+        "Kurztitel": "Verwaltungsverfahrensgesetz, VwVG1",
+        "effective_date": ""
+    },
+    {
+        "law_name": "Bundesgesetzüber Zertifizierungsdienste im Bereich derelektronischen Signatur und anderer Anwendungendigitaler Zertifikate",
+        "language": "DE",
+        "SR": "943.03",
+        "shorthand": "ZertES",
+        "Kurztitel": "Bundesgesetz über die elektronische Signatur, ZertES",
+        "effective_date": ""
+    },
+    {
+        "law_name": "Bundesgesetzgegen den unlauteren Wettbewerb",
+        "language": "DE",
+        "SR": "241",
+        "shorthand": "UWG",
+        "Kurztitel": "UWG",
+        "effective_date": ""
+    },
+    {
+        "law_name": "Schweizerische Strafprozessordnung",
+        "language": "DE",
+        "SR": "312.0",
+        "shorthand": "StPO",
+        "Kurztitel": "Strafprozessordnung, StPO",
+        "effective_date": "vom 5. Oktober 2007 (Stand am 1. Januar 2024)"
+    },
+    {
+        "law_name": "Bundesgesetzüber den Schutz von Design",
+        "language": "DE",
+        "SR": "232.12",
+        "shorthand": "DesG",
+        "Kurztitel": "Designgesetz, DesG",
+        "effective_date": ""
+    },
+    {
+        "law_name": "Schweizerische Zivilprozessordnung",
+        "language": "DE",
+        "SR": "272",
+        "shorthand": "ZPO",
+        "Kurztitel": "Zivilprozessordnung, ZPO",
+        "effective_date": "vom 19. Dezember 2008 (Stand am 1. September 2023)"
+    },
+    {
+        "law_name": "Bundesgesetzüber das Urheberrecht und verwandte Schutzrechte",
+        "language": "DE",
+        "SR": "231.1",
+        "shorthand": "URG",
+        "Kurztitel": "Urheberrechtsgesetz, URG",
+        "effective_date": "vom 9. Oktober 1992 (Stand am 1. Juli 2023)"
+    }
+]
