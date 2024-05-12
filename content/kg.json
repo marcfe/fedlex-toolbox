@@ -1,0 +1,512 @@
+{
+    "law_name": "Bundesgesetzüber Kartelle und andereWettbewerbsbeschränkungen",
+    "language": "DE",
+    "SR": "251",
+    "short_title": "Kartellgesetz, KG",
+    "shorthand": "KG",
+    "effective_date": "",
+    "law_details": [
+        {
+            "chapter_title": "1. Kapitel: Allgemeine Bestimmungen",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_1",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_1",
+                    "number": "1",
+                    "title": "Zweck",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_2",
+                    "number": "2",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_3",
+                    "number": "3",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_4",
+                    "number": "4",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "2. Kapitel: Materiellrechtliche Bestimmungen",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_2",
+            "articles": []
+        },
+        {
+            "chapter_title": "1. Abschnitt: Unzulässige Wettbewerbsbeschränkungen",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_2/sec_1",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_5",
+                    "number": "5",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_6",
+                    "number": "6",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_7",
+                    "number": "7",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_8",
+                    "number": "8",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "2. Abschnitt: Unternehmenszusammenschlüsse",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_2/sec_2",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_9",
+                    "number": "9",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_10",
+                    "number": "10",
+                    "title": "Beurteilung von Zusammenschlüssen",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_11",
+                    "number": "11",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "3. Kapitel: Zivilrechtliches Verfahren",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_3",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_12",
+                    "number": "12",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_13",
+                    "number": "13",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_14",
+                    "number": "14",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_15",
+                    "number": "15",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_16_17",
+                    "number": "1617",
+                    "title": "und",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "4. Kapitel: Verwaltungsrechtliches Verfahren",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_4",
+            "articles": []
+        },
+        {
+            "chapter_title": "1. Abschnitt: Wettbewerbsbehörden",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_4/sec_1",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_18",
+                    "number": "18",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_19",
+                    "number": "19",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_20",
+                    "number": "20",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_21",
+                    "number": "21",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_22",
+                    "number": "22",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_23",
+                    "number": "23",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_24",
+                    "number": "24",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_25",
+                    "number": "25",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "2. Abschnitt: Untersuchung von Wettbewerbsbeschränkungen",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_4/sec_2",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_26",
+                    "number": "26",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_27",
+                    "number": "27",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_28",
+                    "number": "28",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_29",
+                    "number": "29",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_30",
+                    "number": "30",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_31",
+                    "number": "31",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "3. Abschnitt: Prüfung von Unternehmenszusammenschlüssen",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_4/sec_3",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_32",
+                    "number": "32",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_33",
+                    "number": "33",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_34",
+                    "number": "34",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_35",
+                    "number": "35",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_36",
+                    "number": "36",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_37",
+                    "number": "37",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_38",
+                    "number": "38",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "4. Abschnitt: Verfahren und Rechtsschutz",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_4/sec_4",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_39",
+                    "number": "39",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_40",
+                    "number": "40",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_41",
+                    "number": "41",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_42",
+                    "number": "42",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_42_a",
+                    "number": "42a",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_42_b",
+                    "number": "42b",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_43",
+                    "number": "43",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_44",
+                    "number": "44",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "5. Abschnitt: Übrige Aufgaben und Befugnisse der Wettbewerbsbehörden",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_4/sec_5",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_45",
+                    "number": "45",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_46",
+                    "number": "46",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_47",
+                    "number": "47",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_48",
+                    "number": "48",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_49",
+                    "number": "49",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "6. Abschnitt: Verwaltungssanktionen",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_4/sec_6",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_49_a",
+                    "number": "49a",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_50",
+                    "number": "50",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_51",
+                    "number": "51",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_52",
+                    "number": "52",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_53",
+                    "number": "53",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "7. Abschnitt:",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_4/sec_7",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_53_a",
+                    "number": "53a",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "5. Kapitel: Strafsanktionen",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_5",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_54",
+                    "number": "54",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_55",
+                    "number": "55",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_56",
+                    "number": "56",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_57",
+                    "number": "57",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "6. Kapitel: Ausführung internationaler Abkommen",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_6",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_58",
+                    "number": "58",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_59",
+                    "number": "59",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "6a. Kapitel:",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_6_a",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_59_a",
+                    "number": "59a",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "7. Kapitel: Schlussbestimmungen",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#chap_7",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_60",
+                    "number": "60",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_61",
+                    "number": "61",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_62",
+                    "number": "62",
+                    "title": "No Title",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/de#art_63",
+                    "number": "63",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "law_name": "Bundesgesetzüber Zertifizierungsdienste im Bereich derelektronischen Signatur und anderer Anwendungendigitaler Zertifikate",
+    "language": "DE",
+    "SR": "943.03",
+    "short_title": "Bundesgesetz über die elektronische Signatur, ZertES",
+    "shorthand": "ZertES",
+    "effective_date": "",
+    "law_details": [
+        {
+            "chapter_title": "1. Abschnitt: Allgemeine Bestimmungen",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#sec_1",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_1",
+                    "number": "1",
+                    "title": "Gegenstand und Zweck",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_2",
+                    "number": "2",
+                    "title": "Begriffe",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "2. Abschnitt: Anerkennung der Anbieterinnen von Zertifizierungsdiensten",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#sec_2",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_3",
+                    "number": "3",
+                    "title": "Anerkennungsvoraussetzungen",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_4",
+                    "number": "4",
+                    "title": "Bezeichnung der Akkreditierungsstelle",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_5",
+                    "number": "5",
+                    "title": "Liste der anerkannten Anbieterinnen von Zertifizierungsdiensten",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "3. Abschnitt: Generierung, Speicherung und Verwendung kryptografischer Schlüssel",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#sec_3",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_6",
+                    "number": "6",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "4. Abschnitt: Geregelte Zertifikate",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#sec_4",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_7",
+                    "number": "7",
+                    "title": "Anforderungen an alle geregelten Zertifikate",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_8",
+                    "number": "8",
+                    "title": "Zusätzliche Anforderungen an qualifizierte Zertifikate",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "5. Abschnitt: Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#sec_5",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_9",
+                    "number": "9",
+                    "title": "Ausstellung geregelter Zertifikate",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_10",
+                    "number": "10",
+                    "title": "Informations- und Dokumentationspflicht",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_11",
+                    "number": "11",
+                    "title": "Ungültigerklärung geregelter Zertifikate",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_12",
+                    "number": "12",
+                    "title": "Verzeichnisdienste für geregelte Zertifikate",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_13",
+                    "number": "13",
+                    "title": "Qualifizierte elektronische Zeitstempel",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_14",
+                    "number": "14",
+                    "title": "Einstellung der Geschäftstätigkeit",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_15",
+                    "number": "15",
+                    "title": "Datenschutz",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "6. Abschnitt: Aufsicht über die anerkannten Anbieterinnen von Zertifizierungsdiensten",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#sec_6",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_16",
+                    "number": "16",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "7. Abschnitt: Haftung",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#sec_7",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_17",
+                    "number": "17",
+                    "title": "Haftung der Anbieterin von Zertifizierungsdiensten",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_18",
+                    "number": "18",
+                    "title": "Haftung der Anerkennungsstelle",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_19",
+                    "number": "19",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "8. Abschnitt: Internationale Abkommen",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#sec_8",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_20",
+                    "number": "20",
+                    "title": "No Title",
+                    "paragraphs": []
+                }
+            ]
+        },
+        {
+            "chapter_title": "9. Abschnitt: Schlussbestimmungen",
+            "chapter_link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#sec_9",
+            "articles": [
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_21",
+                    "number": "21",
+                    "title": "Vollzug",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_22",
+                    "number": "22",
+                    "title": "Aufhebung und Änderung anderer Erlasse",
+                    "paragraphs": []
+                },
+                {
+                    "link": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_23",
+                    "number": "23",
+                    "title": "Referendum und Inkrafttreten",
+                    "paragraphs": []
+                }
+            ]
+        }
+    ]
+}
